@@ -1,0 +1,11 @@
+{
+  "name": "smiteMOTD",
+  "version": "1.0.0",
+  "description": "Notifications for match of the day in Smite",
+  "main": "index.js",
+  "author": "JuulArthur",
+  "license": "MIT",
+  "dependencies": {
+    "node-fetch": "^1.6.3"
+  }
+}
